@@ -9,11 +9,12 @@ Reproduction of the BTC 4h directional-accuracy result in Table 1 of [QuantAgent
 - `experiments/pilot_budget.py`: DeepSeek adapter, input-window selection, and request/usage logging.
 - `experiments/run_btc100.py`: four-worker batch launcher, separate chart directories, and resume support.
 - `experiments/evaluate.py`: offline scoring of saved outputs.
-- `results.zip`: 600 completed sample outputs across two settings and three runs, per-sample scores, and aggregate results.
+- `results.zip`: 600 completed sample outputs across two settings and three runs.
+- `results/`: per-sample scores and aggregate results.
 - `upstream_sha256.json`: checksums of the included author files and data.
 - `requirements.txt`: frozen Python environment used for the runs.
 
-Upstream source: [Y-Research-SBU/QuantHarness](https://github.com/Y-Research-SBU/QuantHarness). Author files are copied unchanged; the web interface and unrelated benchmark datasets are omitted. The license is retained in `QuantHarness-main/LICENSE`.
+Upstream source: [Y-Research-SBU/QuantHarness](https://github.com/Y-Research-SBU/QuantHarness). Author files are copied unchanged; web interface assets and unrelated benchmark datasets are omitted. The license is retained in `QuantHarness-main/LICENSE`.
 
 ## Installation
 
