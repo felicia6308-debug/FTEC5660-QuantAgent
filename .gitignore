@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+.venv*/
+__pycache__/
+*.pyc
+.DS_Store
+experiments/btc*/
+experiments/pilot_results/
+**/work/
+**/failed_attempts/
+*.png
+*.log
