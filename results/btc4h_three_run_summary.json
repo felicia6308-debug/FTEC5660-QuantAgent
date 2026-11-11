@@ -1,0 +1,28 @@
+{
+  "runs": [
+    {
+      "run": 1,
+      "valid": 100,
+      "hits": 138,
+      "accuracy_percent": 46.0,
+      "issues": []
+    },
+    {
+      "run": 2,
+      "valid": 100,
+      "hits": 135,
+      "accuracy_percent": 45.0,
+      "issues": []
+    },
+    {
+      "run": 3,
+      "valid": 100,
+      "hits": 123,
+      "accuracy_percent": 41.0,
+      "issues": []
+    }
+  ],
+  "mean_accuracy_percent": 44.0,
+  "sample_std_percentage_points": 2.6457513110645907,
+  "sample_variance_percentage_points_squared": 7.0
+}

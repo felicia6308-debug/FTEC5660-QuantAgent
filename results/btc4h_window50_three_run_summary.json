@@ -1,0 +1,29 @@
+{
+  "runs": [
+    {
+      "run": 1,
+      "valid": 100,
+      "hits": 134,
+      "accuracy": 44.666666666666664,
+      "issues": []
+    },
+    {
+      "run": 2,
+      "valid": 100,
+      "hits": 126,
+      "accuracy": 42.0,
+      "issues": []
+    },
+    {
+      "run": 3,
+      "valid": 100,
+      "hits": 132,
+      "accuracy": 44.0,
+      "issues": []
+    }
+  ],
+  "mean": 43.55555555555556,
+  "sample_std": 1.387777332977421,
+  "sample_variance": 1.9259259259259234,
+  "difference_pp": -0.44444444444444287
+}
